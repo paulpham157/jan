@@ -20,7 +20,7 @@
     "@theguild/remark-mermaid": "^0.0.6",
     "astro-mermaid": "^1.0.4",
     "autoprefixer": "^10.0.1",
-    "axios": "^1.6.8",
+    "axios": "^1.13.5",
     "date-fns": "^3.6.0",
     "embla-carousel-auto-height": "^8.0.0",
     "embla-carousel-auto-scroll": "^8.0.0",
